@@ -13,4 +13,9 @@ public class SearchBarTest {
 		System.out.println("entered values successfully");
 	}
 
+	@Test
+	public void entervaluesTest3() {
+		System.out.println("entered values successfully");
+	}
+
 }
