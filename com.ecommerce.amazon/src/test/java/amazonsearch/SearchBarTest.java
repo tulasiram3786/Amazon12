@@ -17,5 +17,13 @@ public class SearchBarTest {
 	public void entervaluesTest3() {
 		System.out.println("entered values successfully");
 	}
+	@Test
+	public void entervaluesTest4() {
+		System.out.println("enter valuess");
+		String browser=System.getProperty("browser");
+		String url=System.getProperty("url");
+		System.out.println("BROWSER=====>"+browser+"URL======>"+url);
+	}
+	
 
 }
