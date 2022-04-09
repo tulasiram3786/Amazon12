@@ -8,6 +8,11 @@ public class SearchBarTest {
 	public void entervaluesTest() {
 		System.out.println("entered values successfully");
 	}
+	
+	@Test
+	public void entervaluesTest() {
+		System.out.println("entered values successfully");
+	}
 	@Test
 	public void entervaluesTest2() {
 		System.out.println("entered values successfully");
